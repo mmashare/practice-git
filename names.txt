@@ -1,1 +1,13 @@
  hey my name is himanshu thakur
+ masvidal vs colby
+ logan vsa jake
+
+ note - master brach also called as main brach on github.
+
+ git unlearn cmd
+ 1- git remote add origin "url of repo https"
+ 2 - git push origin master
+ 3 - git brach  (it help to see how many brach u have any on which brach on work)
+ 4 - git brach <new brach name>
+ 5 - git checkout <name of brach you want to go on it>
+ 6 - git merge <brach name of that you want to merge on it with master branch> 
