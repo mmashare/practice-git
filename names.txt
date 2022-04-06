@@ -11,3 +11,12 @@
  4 - git brach <new brach name>
  5 - git checkout <name of brach you want to go on it>
  6 - git merge <brach name of that you want to merge on it with master branch> 
+ 7 - git clone <url of repo>
+
+ // how to delete files on github repo by git
+  step1 - git clone <url of repo>
+  step2 - delete the files in repo that u want
+  step3 - now commit the changes
+  step4 - git remote add origin "url of repo" 
+  step4 - git push origin master -f
+   now see the the changes on github it's work
