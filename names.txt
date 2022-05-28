@@ -8,7 +8,7 @@
  2 - git push -u origin master
  3 - git brach  (it help to see how many brach u have any on which brach on work)
  4 - git brach <new brach name>
- 5 - git checkout <name of brach you want to go on it>
+ 5 - git checkout <name of brach you want to go in it>
  6 - git merge <brach name of that you want to merge on it with master branch> 
  7 - git clone <url of repo>
 
